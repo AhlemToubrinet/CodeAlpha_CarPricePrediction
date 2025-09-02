@@ -26,7 +26,8 @@ This project implements a machine learning solution to predict **used car prices
 
 ## 📊 Dataset
 
-The dataset used is the [Car Price Prediction Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars) from Kaggle.
+The dataset used is from Kaggle:  
+[Car Price Prediction Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
 
 It contains various attributes of used cars, including:
 
